@@ -17,8 +17,7 @@ A budget calculator is a powerful financial tool designed to assist individuals,
 # Contact
 ![68747470733a2f2f7777772e66656c62657270722e636f6d2f77702d636f6e74656e742f75706c6f6164732f6c696e6b6564696e2d6c6f676f2e706e67](https://github.com/ayushgupta1777/Budget_Calculator/assets/120300586/17fea653-cc80-42a2-bd84-32a6b4530b05)
 
-!
-[68747470733a2f2f7777772e66656c62657270722e636f6d2f77702d636f6e74656e742f75706c6f6164732f6c696e6b6564696e2d6c6f676f2e706e67](https://www.linkedin.com/in/ayush-gupta-38abab230/)
+(https://www.linkedin.com/in/ayush-gupta-38abab230/)
 
 
 © 2023 Ayush Gupta 
