@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Budget Calculator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Budget Calculator</h1>
+    <div class="input-container">
+        <input type="text" id="descriptionInput" placeholder="Description">
+        <input type="number" id="amountInput" placeholder="Amount">
+        <select id="typeInput">
+            <option value="income">Income</option>
+            <option value="expense">Expense</option>
+        </select>
+        <button onclick="addTransaction()">Add</button>
+    </div>
+    <div class="transactions">
+        <h2>Transactions</h2>
+        <ul id="transactionList"></ul>
+    </div>
+    <div >
+        <h2>Balance</h2>
+        <p id="balanceAmount">0</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
